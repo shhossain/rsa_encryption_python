@@ -1,8 +1,8 @@
 # My Custom rsa encryption Algorithm from start
 
-*** I was learing about rsa and thought how hard it is to make, making a fully working algorithm was not that hard but making it fast is ... that another thing, so just created a basic rsa algorithm with simple(I tried to crack it and end result is ... maybe I need a 🤔 faster computer)***
+** I was learing about rsa and thought how hard it is to make, making a fully working algorithm was not that hard but making it fast is ... that another thing, so just created a basic rsa algorithm with simple(I tried to crack it and end result is ... maybe I need a 🤔 faster computer)**
 
-***How to use (Only for me if forget somehow😊)***
+**How to use (Only for me if forget somehow😊)**
 
 ```
 from rsa import RSA
@@ -24,4 +24,4 @@ print(time.process_time() - start)
 
 ```
 
-***Took about 0.002s to complete(👆code) and I only used 200 prime numbers, time increase o(n²)(maybe!!)***
+**Took about 0.002s to complete(👆code) and I only used 200 prime numbers, time increase o(n²)(maybe!!)**
